@@ -13,3 +13,10 @@ append-only. 형식: `## [YYYY-MM-DD] <operation> | <제목>` (operation: ingest
 - wiki/neochart-crm/electron-builder-path-sanitizer.md (신규)
 - wiki/neochart-crm/installer-registry-guard-fix.md (신규)
 - wiki/index.md (neochart-crm 섹션 추가)
+
+## [2026-06-11] ingest | DB 자동 마이그레이션 설계 ? 신규 병원 제로터치 셋업
+
+- raw/notes/2026-06-11-db-auto-migration-zero-touch-design.md (신규 소스 — 원문 §5 도중 잘림, §6~§7 미전달)
+- wiki/neochart-crm/db-auto-migration.md (신규)
+- wiki/neochart-crm/autosend-heartbeat.md (갱신 — 0.7.6 예정 변경 섹션, sources 추가)
+- wiki/index.md (항목 추가)

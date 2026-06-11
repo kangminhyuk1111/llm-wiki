@@ -5,6 +5,7 @@
 
 ## neochart-crm
 
-- [[autosend-heartbeat]] — autosend 0.7.5 하트비트 운영 상태, 미해결 의문(12:45~12:49 로그 부재), 남은 일
+- [[autosend-heartbeat]] — autosend 0.7.5 하트비트 운영 상태, 미해결 의문(12:45~12:49 로그 부재), 남은 일, 0.7.6 예정 변경
+- [[db-auto-migration]] — 신규 병원 제로터치 DB 셋업 설계: CRM 기동 시 [B] 테이블 + 심야 락 승자 [A] 인덱스 2단 자동화 (설계 승인/구현 대기)
 - [[electron-builder-path-sanitizer]] — 설치 경로에 제품명 하위폴더가 강제로 붙는 electron-builder 동작 (비활성화 불가)
 - [[installer-registry-guard-fix]] — "모든 사용자" 설치 시 기본 경로가 Program Files로 뜨던 레지스트리 hive 가드 갭과 수정 (816a4a0)
