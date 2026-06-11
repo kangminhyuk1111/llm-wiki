@@ -38,6 +38,8 @@ wiki/                # LLM이 컴파일한 위키 (지식의 주제별 구분)
 
 ### Frontmatter (필수)
 
+frontmatter 규약은 `wiki/<topic>/*.md` 개념 페이지에만 적용된다. `index.md`와 `log.md`는 제외한다.
+
 ```yaml
 ---
 tags: [topic-name, domain-tag]
