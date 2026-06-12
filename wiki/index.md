@@ -10,6 +10,8 @@
 ## neochart-crm
 
 - [[autosend-heartbeat]] — autosend 0.7.5 하트비트 운영 상태, 미해결 의문(12:45~12:49 로그 부재), 남은 일, 0.7.6 예정 변경
+- [[autosend-sync-engine]] — 자동발송 엔진의 멱등 설계 3겹: 멱등 키(정책 내장), decideSync 순수 판정, 안전망(sp_getapplock 락·건별 격리·replace 순서)
+- [[legacy-takeover-cutover]] — 레거시→신규 전환기 중복·오발송 차단: 틱 내 takeover 단계, 엔티티 단위 교체, 매 틱 자가수렴
 - [[db-auto-migration]] — 신규 병원 제로터치 DB 셋업 설계: CRM 기동 시 [B] 테이블 + 심야 락 승자 [A] 인덱스 2단 자동화 (설계 승인/구현 대기)
 - [[electron-builder-path-sanitizer]] — 설치 경로에 제품명 하위폴더가 강제로 붙는 electron-builder 동작 (비활성화 불가)
 - [[installer-registry-guard-fix]] — "모든 사용자" 설치 시 기본 경로가 Program Files로 뜨던 레지스트리 hive 가드 갭과 수정 (816a4a0)

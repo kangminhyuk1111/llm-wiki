@@ -51,3 +51,4 @@ sources:
 ## 관련 항목
 
 - [[autosend-heartbeat]] — 2단이 끼어드는 틱·락 승자·하트비트 구조, 버전 0.7.5→0.7.6
+- [[autosend-sync-engine]] — "락 승자"의 실체인 `sp_getapplock` 다중 설치 락과 틱 엔진 설계

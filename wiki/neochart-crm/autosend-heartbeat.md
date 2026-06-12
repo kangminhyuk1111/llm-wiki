@@ -41,6 +41,8 @@ Neochart CRM의 autosend가 운영 서버로 보내는 생존 신호(heartbeat) 
 
 ## 관련 항목
 
+- [[autosend-sync-engine]] — 이 틱에서 도는 발송 엔진의 멱등 설계 (락 승자 = `sp_getapplock`)
+- [[legacy-takeover-cutover]] — 같은 틱에 포함된 레거시 인수 단계
 - [[db-auto-migration]] — 신규 병원 제로터치 DB 셋업 설계 (autosend 틱에 2단이 편입됨)
 - [[electron-builder-path-sanitizer]] — 설치 경로에 제품명 폴더가 강제로 붙는 동작
 - [[installer-registry-guard-fix]] — 설치 기본 경로가 Program Files로 떴던 원인과 수정

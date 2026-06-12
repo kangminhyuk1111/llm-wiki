@@ -26,3 +26,12 @@ append-only. 형식: `## [YYYY-MM-DD] <operation> | <제목>` (operation: ingest
 - raw/clips/2026-06-12-obsidian-llm-wiki-case-study.md (신규 소스 — 요즘IT 웹 아티클)
 - wiki/llm-wiki/obsidian-llm-wiki-case-study.md (신규)
 - wiki/index.md (llm-wiki topic 섹션 신설)
+
+## [2026-06-12] ingest | 이종 시스템 전환기 중복 발송 방지 — 장부 기반 멱등 동기화 엔진 설계
+
+- raw/notes/2026-06-12-idempotent-sync-takeover-design.md (신규 소스)
+- wiki/neochart-crm/autosend-sync-engine.md (신규)
+- wiki/neochart-crm/legacy-takeover-cutover.md (신규)
+- wiki/neochart-crm/autosend-heartbeat.md (갱신 — 관련 항목 링크 추가)
+- wiki/neochart-crm/db-auto-migration.md (갱신 — 관련 항목 링크 추가)
+- wiki/index.md (항목 2건 추가)
