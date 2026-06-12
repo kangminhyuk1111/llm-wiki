@@ -20,3 +20,9 @@ append-only. 형식: `## [YYYY-MM-DD] <operation> | <제목>` (operation: ingest
 - wiki/neochart-crm/db-auto-migration.md (신규)
 - wiki/neochart-crm/autosend-heartbeat.md (갱신 — 0.7.6 예정 변경 섹션, sources 추가)
 - wiki/index.md (항목 추가)
+
+## [2026-06-12] ingest | 나만의 세컨 브레인: 옵시디언 기반 LLM 위키 구축기
+
+- raw/clips/2026-06-12-obsidian-llm-wiki-case-study.md (신규 소스 — 요즘IT 웹 아티클)
+- wiki/llm-wiki/obsidian-llm-wiki-case-study.md (신규)
+- wiki/index.md (llm-wiki topic 섹션 신설)

@@ -3,6 +3,10 @@
 모든 위키 페이지의 카탈로그. 모든 ingest마다 갱신된다.
 형식: `- [[파일명]] — 한 줄 요약` (topic별 섹션으로 구분)
 
+## llm-wiki
+
+- [[obsidian-llm-wiki-case-study]] — Obsidian+GitHub+Claude Code로 구현한 외부 LLM 위키 사례: 민감정보 마스킹, 매일 자동 lint, 삶 전반 카테고리 (도입 검토 후보)
+
 ## neochart-crm
 
 - [[autosend-heartbeat]] — autosend 0.7.5 하트비트 운영 상태, 미해결 의문(12:45~12:49 로그 부재), 남은 일, 0.7.6 예정 변경
